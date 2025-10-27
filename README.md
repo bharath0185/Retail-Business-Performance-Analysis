@@ -34,10 +34,6 @@ Using **SQL, Python, and Power BI**, this project identifies factors affecting p
 - **High inventory days** reduce overall profit margins.  
 - **Price** shows a strong positive correlation with **profit (r = 0.84)**.  
 
----
-
-### 📊 Dashboard Preview  
-![Power BI Dashboard](.Retail-Business-Performance-Analysis/blob/main/Output/Retail_Data_Cleaning.ipynb)
 
 ---
 
