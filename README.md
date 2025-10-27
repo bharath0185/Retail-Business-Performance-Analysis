@@ -37,7 +37,7 @@ Using **SQL, Python, and Power BI**, this project identifies factors affecting p
 ---
 
 ### 📊 Dashboard Preview  
-![Power BI Dashboard](./Outputs/Retail_Data_Cleaning.ipynb)
+![Power BI Dashboard](.Retail-Business-Performance-Analysis/blob/main/Output/Retail_Data_Cleaning.ipynb)
 
 ---
 
