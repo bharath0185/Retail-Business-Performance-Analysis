@@ -1,0 +1,16 @@
+Retail Business Performance & Profitability – Python Insights
+
+1️⃣ Correlation Analysis:
+   - Strong positive correlation between Price and Profit (r = 0.84)
+   - Weak correlation between Quantity and Profit (r = 0.12)
+   - Negative correlation between Inventory_Days and Profit Margin (r = -0.48)
+
+2️⃣ Key Findings:
+   - Electronics and Office Supplies are top profit contributors.
+   - South and West regions outperform North and East in overall profit.
+   - Categories with high inventory days show reduced profitability.
+
+3️⃣ Recommendations:
+   - Optimize inventory in slow-moving subcategories.
+   - Maintain pricing strategy for high-margin products.
+   - Increase marketing focus in high-performing regions.
